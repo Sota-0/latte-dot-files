@@ -13,3 +13,16 @@ Steps:
 4. select " configure latte... "
 5. go to layouts editor, and select the preset and click switch
 6. CONGRATS, enjoy your new preset
+
+
+--- [ SETUP ] ---
+
+ICONS  -  Breeze Dark
+
+WINDOW DECORATION  -  Graphite-dark-round
+
+COLORS  -  GraphiteNordDark
+
+PLASMA STYLE  -  Graphite-nord-dark
+
+APPLICATION STYLE  -  Breeze
